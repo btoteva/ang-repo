@@ -20,6 +20,12 @@ git push -u origin main
 git remote add origin https://btoteva.github.io/demo-repo.git
 npm run deploy
 
+git submodule add https://github.com/twitter/bootstrap.git
+git add .gitmodules bootstrap
+git commit -a -m "Added bootstrap submodule"
+git submodule init
+git submodule update
+
 github settings:
 Build and deployment
 Source
