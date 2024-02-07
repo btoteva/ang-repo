@@ -18,9 +18,6 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <div className="alert alert-primary" role="alert">
-        A simple primary alert—check it out!
-      </div>
     </>
   );
 }
