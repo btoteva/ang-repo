@@ -21,6 +21,7 @@ function App() {
       </p>
 
       <p className="alert alert-primary">test</p>
+      <p><a href="https://docs.google.com/spreadsheets/d/15FMQEoZWwJPu135razYwwV-aALZdKBkhvpHYOBaEkKs/edit?gid=0#gid=0">Немски глаголи в минало перфектно време</a></p>
     </>
   );
 }
